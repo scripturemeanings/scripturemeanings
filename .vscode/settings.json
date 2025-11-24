@@ -1,0 +1,33 @@
+{
+  // Reduce file watching overhead
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/.next/**": true,
+    "**/.contentlayer/**": true,
+    "**/dist/**": true,
+    "**/build/**": true,
+    "**/*.log": true,
+    "**/.DS_Store": true
+  },
+  
+  // Reduce search overhead
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/.contentlayer": true,
+    "**/dist": true,
+    "**/build": true,
+    "**/*.log": true
+  },
+  
+  // File associations
+  "files.associations": {
+    "*.mdx": "mdx"
+  },
+  
+  // TypeScript settings
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}

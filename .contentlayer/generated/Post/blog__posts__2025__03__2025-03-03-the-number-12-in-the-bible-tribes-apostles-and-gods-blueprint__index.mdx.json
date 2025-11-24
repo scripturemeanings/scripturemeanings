@@ -1,0 +1,24 @@
+{
+  "title": "The Number 12 in the Bible: Tribes, Apostles, and God’s Blueprint",
+  "date": "2025-03-03T00:00:00.000Z",
+  "categories": [
+    "bible-answers",
+    "numbers"
+  ],
+  "coverImage": "12-pillars.webp",
+  "body": {
+    "raw": "\nTwelve stitches scripture together—12 tribes, 12 apostles, 12 gates in the New Jerusalem. It’s no accident; it’s architecture. While 7 disrupts and renews, 12 builds—God’s framework for His people. Let’s trace its lines and see the design.\n\nJacob’s 12 sons become Israel’s tribes (Genesis 49), a messy family shaped into a nation. Jesus picks 12 apostles (Matthew 10:2-4), flawed men forging a new covenant.\n\nRevelation 21 unveils 12 gates, each a pearl, guarding the eternal city. Twelve is community, order—a dozen pieces forming a whole. Even the 144,000 (12 x 12 x 1,000) amplify it, symbolizing fullness.\n\n![pearl gates](images/pearl-gates-796x1024.webp)\n\nIt’s not perfection like 7; it’s purpose. Twelve tribes wander, 12 apostles stumble—yet God uses them. It’s His blueprint: scattered parts united under Him.\n\nContrast it with 9 (endings)—12 is beginnings, a foundation for what lasts.\n\nTakeaway: You’re part of a 12 somewhere—a tribe, a calling. Where’s God fitting you into His structure? Twelve says you belong.\n",
+    "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of h(e))!b.call(t,i)&&i!==n&&r(t,i,{get:()=>e[i],enumerable:!(a=m(e,i))||a.enumerable});return t};var x=(t,e,n)=>(n=t!=null?u(g(t)):{},o(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),y=t=>o(r({},\"__esModule\",{value:!0}),t);var c=w((j,l)=>{l.exports=_jsx_runtime});var T={};f(T,{default:()=>d,frontmatter:()=>v});var s=x(c()),v={title:\"The Number 12 in the Bible: Tribes, Apostles, and God\\u2019s Blueprint\",date:\"2025-03-03\",categories:[\"bible-answers\",\"numbers\"],coverImage:\"12-pillars.webp\"};function p(t){let e={img:\"img\",p:\"p\",...t.components};return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(e.p,{children:\"Twelve stitches scripture together\\u201412 tribes, 12 apostles, 12 gates in the New Jerusalem. It\\u2019s no accident; it\\u2019s architecture. While 7 disrupts and renews, 12 builds\\u2014God\\u2019s framework for His people. Let\\u2019s trace its lines and see the design.\"}),`\n`,(0,s.jsx)(e.p,{children:\"Jacob\\u2019s 12 sons become Israel\\u2019s tribes (Genesis 49), a messy family shaped into a nation. Jesus picks 12 apostles (Matthew 10:2-4), flawed men forging a new covenant.\"}),`\n`,(0,s.jsx)(e.p,{children:\"Revelation 21 unveils 12 gates, each a pearl, guarding the eternal city. Twelve is community, order\\u2014a dozen pieces forming a whole. Even the 144,000 (12 x 12 x 1,000) amplify it, symbolizing fullness.\"}),`\n`,(0,s.jsx)(e.p,{children:(0,s.jsx)(e.img,{src:\"images/pearl-gates-796x1024.webp\",alt:\"pearl gates\"})}),`\n`,(0,s.jsx)(e.p,{children:\"It\\u2019s not perfection like 7; it\\u2019s purpose. Twelve tribes wander, 12 apostles stumble\\u2014yet God uses them. It\\u2019s His blueprint: scattered parts united under Him.\"}),`\n`,(0,s.jsx)(e.p,{children:\"Contrast it with 9 (endings)\\u201412 is beginnings, a foundation for what lasts.\"}),`\n`,(0,s.jsx)(e.p,{children:\"Takeaway: You\\u2019re part of a 12 somewhere\\u2014a tribe, a calling. Where\\u2019s God fitting you into His structure? Twelve says you belong.\"})]})}function d(t={}){let{wrapper:e}=t.components||{};return e?(0,s.jsx)(e,{...t,children:(0,s.jsx)(p,{...t})}):p(t)}return y(T);})();\n;return Component;"
+  },
+  "_id": "blog/posts/2025/03/2025-03-03-the-number-12-in-the-bible-tribes-apostles-and-gods-blueprint/index.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/posts/2025/03/2025-03-03-the-number-12-in-the-bible-tribes-apostles-and-gods-blueprint/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "blog/posts/2025/03/2025-03-03-the-number-12-in-the-bible-tribes-apostles-and-gods-blueprint",
+    "contentType": "mdx",
+    "flattenedPath": "blog/posts/2025/03/2025-03-03-the-number-12-in-the-bible-tribes-apostles-and-gods-blueprint"
+  },
+  "type": "Post",
+  "slug": "the-number-12-in-the-bible-tribes-apostles-and-gods-blueprint",
+  "url": "/the-number-12-in-the-bible-tribes-apostles-and-gods-blueprint"
+}

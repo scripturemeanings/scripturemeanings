@@ -1,0 +1,21 @@
+# Ignore patterns for Contentlayer to reduce unnecessary file watching
+node_modules/
+.git/
+.next/
+dist/
+build/
+*.log
+.DS_Store
+*.backup
+*.tmp
+*.swp
+*.swo
+*~
+.cache/
+coverage/
+.vscode/
+.idea/
+*.md
+!content/**/*.mdx
+!content/**/*.md
+

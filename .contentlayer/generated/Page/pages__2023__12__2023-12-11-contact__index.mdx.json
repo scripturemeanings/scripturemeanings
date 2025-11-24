@@ -1,0 +1,19 @@
+{
+  "title": "Contact",
+  "date": "2023-12-11T00:00:00.000Z",
+  "body": {
+    "raw": "\n\\[formidable id=\"1\"\\]\n",
+    "code": "var Component=(()=>{var x=Object.create;var r=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var l=Object.getPrototypeOf,_=Object.prototype.hasOwnProperty;var j=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),C=(t,n)=>{for(var e in n)r(t,e,{get:n[e],enumerable:!0})},i=(t,n,e,a)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of p(n))!_.call(t,o)&&o!==e&&r(t,o,{get:()=>n[o],enumerable:!(a=f(n,o))||a.enumerable});return t};var M=(t,n,e)=>(e=t!=null?x(l(t)):{},i(n||!t||!t.__esModule?r(e,\"default\",{value:t,enumerable:!0}):e,t)),h=t=>i(r({},\"__esModule\",{value:!0}),t);var s=j((w,m)=>{m.exports=_jsx_runtime});var X={};C(X,{default:()=>u,frontmatter:()=>D});var c=M(s()),D={title:\"Contact\",date:\"2023-12-11\"};function d(t){let n={p:\"p\",...t.components};return(0,c.jsx)(n.p,{children:'[formidable id=\"1\"]'})}function u(t={}){let{wrapper:n}=t.components||{};return n?(0,c.jsx)(n,{...t,children:(0,c.jsx)(d,{...t})}):d(t)}return h(X);})();\n;return Component;"
+  },
+  "_id": "pages/2023/12/2023-12-11-contact/index.mdx",
+  "_raw": {
+    "sourceFilePath": "pages/2023/12/2023-12-11-contact/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "pages/2023/12/2023-12-11-contact",
+    "contentType": "mdx",
+    "flattenedPath": "pages/2023/12/2023-12-11-contact"
+  },
+  "type": "Page",
+  "slug": "contact",
+  "url": "/contact"
+}

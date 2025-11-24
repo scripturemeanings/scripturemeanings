@@ -1,0 +1,19 @@
+{
+  "title": "Random Bible Verse Generator",
+  "date": "2023-12-22T00:00:00.000Z",
+  "body": {
+    "raw": "\nDaily Dose of Scripture\n\n![scripture generator bible](images/Scripture_Generator-1024x684.webp)\n\n<script src=\"https://koala.sh/api/embed-magnet/a5d910aa-f1e3-4f0d-9bb1-dfe578d55741/\" async></script>\n\nMay your day be blessed with divine wisdom!\"\n",
+    "code": "var Component=(()=>{var l=Object.create;var s=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),h=(t,e)=>{for(var r in e)s(t,r,{get:e[r],enumerable:!0})},o=(t,e,r,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of x(e))!f.call(t,a)&&a!==r&&s(t,a,{get:()=>e[a],enumerable:!(i=u(e,a))||i.enumerable});return t};var _=(t,e,r)=>(r=t!=null?l(b(t)):{},o(e||!t||!t.__esModule?s(r,\"default\",{value:t,enumerable:!0}):r,t)),y=t=>o(s({},\"__esModule\",{value:!0}),t);var d=g((M,c)=>{c.exports=_jsx_runtime});var w={};h(w,{default:()=>p,frontmatter:()=>j});var n=_(d()),j={title:\"Random Bible Verse Generator\",date:\"2023-12-22\"};function m(t){let e={img:\"img\",p:\"p\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Daily Dose of Scripture\"}),`\n`,(0,n.jsx)(e.p,{children:(0,n.jsx)(e.img,{src:\"images/Scripture_Generator-1024x684.webp\",alt:\"scripture generator bible\"})}),`\n`,(0,n.jsx)(\"script\",{src:\"https://koala.sh/api/embed-magnet/a5d910aa-f1e3-4f0d-9bb1-dfe578d55741/\",async:!0}),`\n`,(0,n.jsx)(e.p,{children:'May your day be blessed with divine wisdom!\"'})]})}function p(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(m,{...t})}):m(t)}return y(w);})();\n;return Component;"
+  },
+  "_id": "pages/2023/12/2023-12-22-random-bible-verse-generator/index.mdx",
+  "_raw": {
+    "sourceFilePath": "pages/2023/12/2023-12-22-random-bible-verse-generator/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "pages/2023/12/2023-12-22-random-bible-verse-generator",
+    "contentType": "mdx",
+    "flattenedPath": "pages/2023/12/2023-12-22-random-bible-verse-generator"
+  },
+  "type": "Page",
+  "slug": "random-bible-verse-generator",
+  "url": "/random-bible-verse-generator"
+}
