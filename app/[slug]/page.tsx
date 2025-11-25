@@ -2,7 +2,7 @@ import { allPosts } from 'contentlayer/generated'
 import { notFound } from 'next/navigation'
 import MDXContent from '@/components/MDXContent'
 import Breadcrumbs from '@/components/Breadcrumbs'
-import Comments from '@/components/Comments'
+import CommentForm from '@/components/CommentForm'
 import HeroImage from '@/components/HeroImage'
 import { generateArticleSchema } from '@/lib/schema'
 
@@ -186,24 +186,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
           </div>
         )}
 
-        {/* Comments Section */}
-        {process.env.NEXT_PUBLIC_GISCUS_REPO &&
-          process.env.NEXT_PUBLIC_GISCUS_REPO_ID &&
-          process.env.NEXT_PUBLIC_GISCUS_CATEGORY &&
-          process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID && (
-            <Comments
-              repo={process.env.NEXT_PUBLIC_GISCUS_REPO}
-              repoId={process.env.NEXT_PUBLIC_GISCUS_REPO_ID}
-              category={process.env.NEXT_PUBLIC_GISCUS_CATEGORY}
-              categoryId={process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID}
-              mapping="pathname"
-              term={slug}
-              reactionsEnabled="1"
-              emitMetadata="0"
-              theme="light"
-              lang="en"
-            />
-          )}
+        <CommentForm postSlug={slug} />
       </article>
     </>
   )

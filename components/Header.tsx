@@ -22,8 +22,19 @@ export default function Header() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center">
-            <Link href="/" className="text-xl font-bold text-gray-900">
-              Scripture Meanings
+            <Link href="/" className="flex items-center gap-3 text-xl font-bold text-gray-900 hover:opacity-80 transition">
+              <img 
+                src="/logo.webp" 
+                alt="Scripture Meanings Logo" 
+                className="h-16 w-auto"
+                style={{ 
+                  maxHeight: '64px', 
+                  display: 'block',
+                  mixBlendMode: 'multiply',
+                  filter: 'contrast(1.1)'
+                }}
+              />
+              <span>Scripture Meanings</span>
             </Link>
           </div>
           

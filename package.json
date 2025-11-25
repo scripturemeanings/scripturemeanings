@@ -11,17 +11,21 @@
     "dev:clean": "powershell -ExecutionPolicy Bypass -File ./scripts/dev-clean.ps1"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.0.2",
     "contentlayer2": "^0.5.8",
     "date-fns": "^4.1.0",
     "next": "16.0.1",
     "next-contentlayer2": "^0.5.8",
+    "nodemailer": "^7.0.10",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "resend": "^6.5.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@tailwindcss/typography": "^0.5.19",
     "@types/node": "^20",
+    "@types/nodemailer": "^7.0.4",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
